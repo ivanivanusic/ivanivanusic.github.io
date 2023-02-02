@@ -1,0 +1,142 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Ivan Ivanušić
+    tagline: iOS Developer
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ivanivanusic98@gmail.com
+    phone:
+    timezone: CET Timezone
+    citizenship:
+    website: ivanivanusic.github.io
+    linkedin: ivanivanusic
+    xing:
+    github: ivanivanusic
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Croatian
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Techonology
+          link:
+
+        - item: Development
+          link:
+
+        - item: Cars
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Experienced iOS Developer with a demonstrated history of working in the computer software industry. Skilled in Swift, XCode, Software Development, Git, Fastlane and Firebase. Strong engineering professional with a Master's degree focused in Computer Engineering from Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture.
+      
+education:
+    title: Education
+    info:
+      - degree: MSc in Computer Engineering
+        university: FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture
+        time: 2020 - 2022
+      - degree: BSc in Computer Engineering
+        university: FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture
+        time: 2017 - 2020
+        
+experiences:
+    title: Experiences
+    info:
+      - role: iOS Engineer
+        time: December 2022 - Present
+        company: The Football Company
+        details: |
+          Work on The Football club app
+            - Swift programming language
+            - MVVM architecture
+            - RxSwift
+            - Git
+            - CocoaPods and Swift Package Manager as dependency managers
+            - Xcode, Figma, Testflight, Github
+            - Bitrise
+            - Firebase SDK
+      - role: iOS Developer
+        time: Januaru 2020 - December 2022
+        company: Evolutio, Split
+        details: |
+          Worked on German betting applications.
+            - Swift programming language • Unit tests
+            - MVVM architecture
+            - Git
+            - Carthage and Swift Package Manager as dependency managers
+            - Xcode, Zepplin, Testflight, Bitbucket
+            - Fastlane
+            - Firebase SDK
+      - role: Software Developer
+        time: August 2019 - October 2020
+        company: Ericsson Nikola Tesla, Split
+        details: |
+          Worked on software for radio base stations
+            - C, C++ programming languages
+            - Unit tests, CI/CD
+            - Git
+            - Linux, Bash
+
+            
+publications:
+    title: Publications
+
+    papers:
+      - title: Facial expression recognition using machine learning on iOS mobile device
+        link: "#"
+        authors: Ivan Ivanušić
+        conference: 2022
+
+      - title: Car safety issues with remote key fob
+        link: "#"
+        authors: Ivan Ivanušić
+        conference: 2020
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Swift
+        level: 98%
+
+      - name: MVVM
+        level: 95%
+
+      - name: Git
+        level: 95%
+
+      - name: Xcode
+        level: 95%
+
+      - name: Firebase
+        level: 85%
+
+      - name: Fastlane
+        level: 70%
+
