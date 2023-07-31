@@ -69,7 +69,10 @@ experiences:
     title: Experiences
     info:
       - role: iOS Engineer
-        time: December 2022 - Present
+        time: July 2023 - Present
+        company: Tripadvisor
+      - role: iOS Engineer
+        time: December 2022 - May 2023
         company: The Football Company
         details: |
           Work on The Football club app
